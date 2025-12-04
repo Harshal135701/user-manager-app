@@ -1,9 +1,12 @@
+
+
 # 🌟 User Manager App
 
-![Node.js](https://img.shields.io/badge/Node.js-v18.16.0-brightgreen)
-![Express](https://img.shields.io/badge/Express-v4.18.2-yellow)
-![MongoDB](https://img.shields.io/badge/MongoDB-v6.0-blue)
-![License](https://img.shields.io/badge/License-MIT-blue)
+> This is a mini project, so a live demo is not available. Screenshot shown above.
+
+## Screenshot
+![User Manager Screenshot](/Assets/screenshot.png)
+
 
 A sleek **Node.js + Express + MongoDB** CRUD application to **Create, Read, Update, and Delete users** with a modern UI built using **EJS** and **Tailwind CSS**.  
 
