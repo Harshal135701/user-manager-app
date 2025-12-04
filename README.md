@@ -7,6 +7,7 @@
 ## Screenshot
 ![User Manager Screenshot](/Assets/screenshot.png)
 
+![Add/Edit Screenshot](/Assets/Screenshot2.png)  
 
 A sleek **Node.js + Express + MongoDB** CRUD application to **Create, Read, Update, and Delete users** with a modern UI built using **EJS** and **Tailwind CSS**.  
 
@@ -21,29 +22,10 @@ A sleek **Node.js + Express + MongoDB** CRUD application to **Create, Read, Upda
 - Responsive and modern UI
 
 ---
+## 💻 How to Run Locally
 
-## 📂 Project Structure
-
-User-Manager/
-│
-├─ app.js 
-├─ package.json
-├─ package-lock.json
-├─ .gitignore 
-│
-├─ models/
-│ └─ user.js 
-│
-├─ views/
-│ ├─ index.ejs 
-│ ├─ read.ejs 
-│ └─ edit.ejs 
-│
-└─ public/
-└─ stylesheets/
-└─ style.css
-
-
----
+1. Clone the repository:  
+```bash
+git clone https://github.com/Harshal135701/user-manager-app.git
 
 
